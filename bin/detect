@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Wordpress config files inject"
+exit 0
